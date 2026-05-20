@@ -1,0 +1,18 @@
+# Issue templates were intentionally removed in v0.1 to keep the contribution
+# path light. CONTRIBUTING.md is the real guide. Structured forms may return
+# later, once the project has discovered what kinds of work it actually
+# attracts. See CONTRIBUTING.md § "Proposing changes to the model".
+
+blank_issues_enabled: true
+contact_links:
+  - name: Discussion (for early-stage ideas, questions, or framing)
+    url: https://github.com/harrisonzhao/carbon-based-humanity/discussions
+    about: >-
+      Half-formed thoughts, open questions, and framing experiments belong in
+      Discussions, not Issues. Issues are for specific, actionable items.
+  - name: Security or safety-sensitive report
+    url: https://github.com/harrisonzhao/carbon-based-humanity/security
+    about: >-
+      Do not post sensitive exploit details, credentials, or operational abuse
+      instructions in a public issue. See SECURITY.md for the disclosure
+      policy and report privately.
