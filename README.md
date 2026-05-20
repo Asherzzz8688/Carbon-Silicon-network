@@ -1,4 +1,6 @@
-# Carbon-Based Humanity Manifesto
+# Carbon & Silicon Network
+
+> We seek to explore and grow a co-living network of humans and AI. This is the open seed for that work.
 
 **Status:** seed version / v0.1  
 **Project type:** open manifesto, research agenda, governance framework, and prototype commons  
@@ -6,7 +8,7 @@
 
 ## What this project is
 
-The Carbon-Based Humanity Manifesto is an open collaboration project for defining, debating, and co-building a rights-aligned future for humans in the age of rapidly advancing artificial intelligence.
+Carbon & Silicon Network is an open collaboration project for defining, debating, and co-building a rights-aligned future for humans in the age of rapidly advancing artificial intelligence.
 
 The project begins from a simple premise:
 

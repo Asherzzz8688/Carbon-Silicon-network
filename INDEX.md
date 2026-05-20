@@ -1,6 +1,6 @@
 # External Contributions Index
 
-This file registers contributions that are part of the Carbon-Based Humanity project but are not hosted in this repository.
+This file registers contributions that are part of Carbon & Silicon Network but are not hosted in this repository.
 
 The project is intended to be a hub for rights-aligned thinking and building, not the only host. Essays, papers, simulations, art, videos, talks, events, sibling manifestos, and other work can live anywhere. This index records that they exist and connects them back to the project.
 

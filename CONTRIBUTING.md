@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Thank you for considering a contribution to the Carbon-Based Humanity Manifesto project.
+Thank you for considering a contribution to Carbon & Silicon Network.
 
 This project is a growing system on a very open topic. Its substrate has to admit forms of contribution that have not yet been named, while still giving newcomers somewhere to start. The model below tries to do both at once: a small generative grammar for locating any contribution, and a few concrete ramps so nobody arrives at a blank page.
 
